@@ -43,7 +43,7 @@ WebSite de Divulgação de Evento com Cronômetro e Interatividade Avançada.
 
 - **Técnologias**: Html, Css, JavaScript <br>
 - **Status**: Concluído <br>
-- **Acesso em:** <br> <br>
+- **Acesso em:** https://github.com/MiguelFernandesSilva/Projeto-Escolar-Contador-de-Evento.git <br> <br>
 
 
 ### Gerenciador de Tarefas Complexo
@@ -51,7 +51,7 @@ Aplicação Web e Mobile de Organização Avançada e Automatizada de Tarefas.
 
 - **Técnologias**: Html, Css, JavaScript, Node.js, PostgreeSQL, React.js, React-Native <br>
 - **Status**: Desenvolvendo (preparando documentação) <br>
-- **Acesso em:** <br>
+- **Acesso em:** Privado (Por enquanto) <br>
 
 <br>
 
