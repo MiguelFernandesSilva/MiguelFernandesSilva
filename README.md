@@ -24,6 +24,8 @@
   ### Back-End
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
 
   ### Banco de Dados
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -32,6 +34,8 @@
   ### DevOps
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
                                 
 </div>
 <br>
@@ -64,10 +68,14 @@ Aplicação Web e Mobile de Organização Avançada e Automatizada de Tarefas.
 
 ### Pretendo Aprender Futuramente:
 
-- TypeScript
+- TypeScript (Continuar aprendendo)
 - Java e Spring Boot
 - Python e bibliotecas (Pandas, NumPy, Django, PyTorch)
+- MariaDB
 - DevOps com Docker e Kubernetes
 
+## Entre em Contato
+
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/miguel-fernandes-dev-aprendizado)
 
           
